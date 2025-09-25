@@ -1,0 +1,322 @@
+[
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 30,
+    "days_to_grow": 7,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 80,
+    "days_to_grow": 12,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 40,
+    "days_to_grow": 4,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 70,
+    "days_to_grow": 6,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 20,
+    "days_to_grow": 4,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 50,
+    "days_to_grow": 6,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 100,
+    "days_to_grow": 13,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 20,
+    "days_to_grow": 6,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 40,
+    "days_to_grow": 3,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 0,
+    "days_to_grow": 3,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 2500,
+    "days_to_grow": 10,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 60,
+    "days_to_grow": 10,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 1,
+    "seed_price": 100,
+    "days_to_grow": 8,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 80,
+    "days_to_grow": 12,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 100,
+    "days_to_grow": 7,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 40,
+    "days_to_grow": 6,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 100,
+    "days_to_grow": 9,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 400,
+    "days_to_grow": 13,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 50,
+    "days_to_grow": 8,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 200,
+    "days_to_grow": 8,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 10,
+    "days_to_grow": 4,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 80,
+    "days_to_grow": 13,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 150,
+    "days_to_grow": 14,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 60,
+    "days_to_grow": 11,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 40,
+    "days_to_grow": 5,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 50,
+    "days_to_grow": 11,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 2,
+    "seed_price": 0,
+    "days_to_grow": 6,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 70,
+    "days_to_grow": 7,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 30,
+    "days_to_grow": 8,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 20,
+    "days_to_grow": 6,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 50,
+    "days_to_grow": 4,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 200,
+    "days_to_grow": 12,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 100,
+    "days_to_grow": 13,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 1000,
+    "days_to_grow": 24,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 60,
+    "days_to_grow": 10,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 240,
+    "days_to_grow": 7,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 20,
+    "days_to_grow": 5,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 60,
+    "days_to_grow": 10,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 4,
+    "seed_price": 0,
+    "days_to_grow": 8,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  },
+  {
+    "key": "_",
+    "season_mask": 8,
+    "seed_price": null,
+    "days_to_grow": 7,
+    "regrow_days": null,
+    "avg_yield": 1.0
+  }
+]
