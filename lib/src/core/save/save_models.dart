@@ -43,6 +43,13 @@ class SaveGameSummary {
     this.season,
     this.year,
     this.uniqueId,
+    this.dayOfWeek,
+    this.dailyLuck,
+    this.weatherIcon,
+    this.isRaining,
+    this.isLightning,
+    this.isSnowing,
+    this.isDebrisWeather,
   });
 
   final String? farmName;
@@ -52,5 +59,12 @@ class SaveGameSummary {
   final String? season;
   final int? year;
   final String? uniqueId;
+  final int? dayOfWeek;
+  final double? dailyLuck;
+  final String? weatherIcon;
+  final bool? isRaining;
+  final bool? isLightning;
+  final bool? isSnowing;
+  final bool? isDebrisWeather;
 }
 

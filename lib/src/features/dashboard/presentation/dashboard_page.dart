@@ -64,6 +64,15 @@ class _TodayCard extends ConsumerWidget {
         SpiritsMood.bad: '悪い',
         SpiritsMood.veryBad: 'とても悪い',
       }[m]!;
+  String _weekdayLabel(Weekday d) => {
+        Weekday.monday: '月',
+        Weekday.tuesday: '火',
+        Weekday.wednesday: '水',
+        Weekday.thursday: '木',
+        Weekday.friday: '金',
+        Weekday.saturday: '土',
+        Weekday.sunday: '日',
+      }[d]!;
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -83,6 +92,7 @@ class _TodayCard extends ConsumerWidget {
                 Text('年: ${today.year}'),
                 Text('季節: ${_seasonLabel(today.season)}'),
                 Text('日付: ${today.dayOfMonth}日'),
+                Text('曜日: ${_weekdayLabel(today.weekday)}曜'),
                 Text('天気: ${_weatherLabel(today.weather)}'),
                 Text('精霊: ${_spiritsLabel(today.spiritsMood)}'),
               ],
